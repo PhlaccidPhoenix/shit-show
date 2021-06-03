@@ -1,10 +1,5 @@
-# shit-show
+# shit-show  
 
- ____  _     _                _     _   ____  _                      _
-|  _ \| |__ | | __ _  ___ ___(_) __| | |  _ \| |__   ___   ___ _ __ (_)_  __
-| |_) | '_ \| |/ _` |/ __/ __| |/ _` | | |_) | '_ \ / _ \ / _ \ '_ \| \ \/ /
-|  __/| | | | | (_| | (_| (__| | (_| | |  __/| | | | (_) |  __/ | | | |>  <
-|_|   |_| |_|_|\__,_|\___\___|_|\__,_| |_|   |_| |_|\___/ \___|_| |_|_/_/\_\
 
     MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
     MMMMMMMMMMMMMMMMMMMMMMMMMMWNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
